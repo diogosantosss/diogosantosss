@@ -1,6 +1,6 @@
 # Hi, I'm Diogo 👋
 
-Final-year Computer Science and Engineering student passionate about backend development, building scalable applications with Kotlin, Java and Spring Boot.
+Final-year Computer Science and Engineering student with all coursework completed. My final-year project begins in January. Passionate about backend development, scalable systems, and building applications.
 
 ## 🚀 Tech Stack
 
