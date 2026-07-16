@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Diogo 👋
 
-<!--
-**diogosantosss/diogosantosss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science and Engineering student with a strong interest in backend development using Kotlin and Java.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**  
+Java • Kotlin • TypeScript • SQL
+
+**Backend**  
+Spring Boot • REST APIs • JPA • JDBI • JDBC
+
+**Databases**  
+PostgreSQL • Firestore
+
+**Mobile**  
+Android SDK • Jetpack Compose
+
+**Cloud & DevOps**  
+Docker • GitHub Actions • Google Cloud Platform
+
+---
+
+## Currently Working On
+
+### Cali Arena
+
+A real-time platform for managing and displaying calisthenics competitions.
+
+Currently developing the backend using **Kotlin**, **Spring Boot**, **PostgreSQL**, and **Docker**. The project includes a mobile app for judges and a live interface for spectators to follow battles, scores, repetitions, and tournament brackets in real time.
+
+---
+
+> **Note:** Some of my recent projects are hosted in private repositories due to academic or collaborative work, so they are not publicly visible on my GitHub profile.
