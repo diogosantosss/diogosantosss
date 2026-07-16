@@ -32,5 +32,3 @@ Currently developing the backend using **Kotlin**, **Spring Boot**, **PostgreSQL
 ---
 
 > **Note:** Some of my recent projects are hosted in private repositories due to academic or collaborative work, so they are not publicly visible on my GitHub profile.
-
-[![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogosantosss)](https://github.com/diogosantosss/github-readme-stats)
