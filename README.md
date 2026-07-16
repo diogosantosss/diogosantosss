@@ -37,12 +37,4 @@ A real-time platform for managing and displaying calisthenics competitions.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=diogosantosss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-</p>
-
----
-
 > **Note:** Some of my recent work is developed in private repositories due to academic or collaborative projects, so not everything I work on is publicly available here.
