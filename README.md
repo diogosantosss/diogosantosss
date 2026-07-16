@@ -2,7 +2,7 @@
 
 Final-year Computer Science and Engineering student with a strong interest in backend development using Kotlin and Java.
 
-## Tech Stack
+## 🚀 Tech Stack
 
 **Languages**  
 Java • Kotlin • TypeScript • SQL
@@ -21,9 +21,9 @@ Docker • GitHub Actions • Google Cloud Platform
 
 ---
 
-## Currently Working On
+## 🔨 Currently Working On
 
-### Cali Arena
+### [Cali Arena](https://github.com/diogosantosss/Cali-Arena)
 
 A real-time platform for managing and displaying calisthenics competitions.
 
@@ -31,4 +31,13 @@ Currently developing the backend using **Kotlin**, **Spring Boot**, **PostgreSQL
 
 ---
 
-> **Note:** Some of my recent projects are hosted in private repositories due to academic or collaborative work, so they are not publicly visible on my GitHub profile.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diogosantosss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantosss&layout=compact&theme=github_dark" />
+</p>
+
+---
+
+> **Note:** Some of my recent work is developed in private repositories due to academic or collaborative projects, so not everything I work on is publicly available here.
