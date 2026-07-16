@@ -34,8 +34,11 @@ Currently developing the backend using **Kotlin**, **Spring Boot**, **PostgreSQL
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=diogosantosss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosantosss&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=diogosantosss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=diogosantosss&layout=compact&theme=github_dark" />
 </p>
 
 ---
