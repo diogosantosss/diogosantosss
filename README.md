@@ -3,7 +3,7 @@
 Final-year Computer Science and Engineering student with all coursework completed. My final-year project begins in January. Passionate about backend development, scalable systems, and building applications.
 
 <p align="center">
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogosantosss&theme=react&animation=rise)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogosantosss&theme=react&animation=rise" />
 </p>
 
 ---
