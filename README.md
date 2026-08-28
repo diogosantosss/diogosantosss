@@ -33,8 +33,13 @@ Docker • GitHub Actions • Google Cloud Platform
 
 A real-time platform for managing and displaying calisthenics competitions.
 
-Currently developing the backend using **Kotlin**, **Spring Boot**, **PostgreSQL**, and **Docker**. 
-The project includes a mobile app for judges and a live interface for spectators to follow battles, scores, repetitions, and tournament brackets in real time.
+**Backend (Kotlin · Spring Boot · PostgreSQL · Docker)** — REST API with a real-time engine over SSE/WebSocket: competition state is pushed live to all connected clients.
+
+**Admin web dashboard (React · TypeScript)** — manage tournaments, athletes, routines, brackets (organized by division), and matches; drive the broadcast with a screen control panel.
+
+**Live web interface for spectators (React · TypeScript)** — real-time screens for battles (reps and scores), routine schedules, bracket trees organized by **division**, and per-bracket best-time leaderboards.
+
+**Mobile app for judges (Android)** — coming next; development starts in **September**.
 
 <p>
   <img src="https://img.shields.io/github/last-commit/diogosantosss/Cali-Arena?style=flat-square" />
