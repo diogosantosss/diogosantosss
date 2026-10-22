@@ -23,14 +23,14 @@ React • TypeScript • Vite • Tailwind CSS • PWA
 PostgreSQL • Firestore
 
 **Mobile**  
-Android SDK • Jetpack Compose
+Android SDK • Jetpack Compose • Kotlin Multiplatform • Koin
 
 **Cloud & DevOps**  
 Docker • GitHub Actions • Google Cloud Platform
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Personal Projects
 
 ### [Cali Arena](https://github.com/diogosantosss/cali-arena)
 
@@ -48,6 +48,23 @@ A real-time platform for managing and displaying calisthenics competitions.
   <img src="https://img.shields.io/github/last-commit/diogosantosss/cali-arena?style=flat-square" />
   <img src="https://img.shields.io/github/commit-activity/m/diogosantosss/cali-arena?style=flat-square" />
   <img src="https://img.shields.io/github/contributors/diogosantosss/cali-arena?style=flat-square" />
+</p>
+
+### [StreetSet](https://github.com/diogosantosss/streetset) — 🚧 in development
+
+
+A strength-training planner and workout tracker built with **Kotlin Multiplatform**, running on **Android and iOS from a single shared codebase**.
+
+
+Programs are split into weeks, sessions, and blocks of exercises with planned sets (reps, load, rest, RPE, tempo). Completed sessions are logged and feed a stats screen. Local-first persistence, no account required.
+
+
+**Stack:** Kotlin Multiplatform · Compose Multiplatform · Room (KMP) · Koin · kotlinx-datetime · GitHub Actions
+
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/diogosantosss/streetset?style=flat-square" />
+  <img src="https://img.shields.io/github/commit-activity/m/diogosantosss/streetset?style=flat-square" />
 </p>
 
 ---
