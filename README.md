@@ -16,6 +16,9 @@ Java • Kotlin • TypeScript • SQL
 **Backend**  
 Spring Boot • REST APIs • JPA • JDBI • JDBC
 
+**Frontend**  
+React • TypeScript • Vite • Tailwind CSS • PWA
+
 **Databases**  
 PostgreSQL • Firestore
 
@@ -27,9 +30,9 @@ Docker • GitHub Actions • Google Cloud Platform
 
 ---
 
-## 🔨 Currently Working On
+## 🏆 Featured Project
 
-### [Cali Arena](https://github.com/diogosantosss/Cali-Arena)
+### [Cali Arena](https://github.com/diogosantosss/cali-arena)
 
 A real-time platform for managing and displaying calisthenics competitions.
 
@@ -39,12 +42,12 @@ A real-time platform for managing and displaying calisthenics competitions.
 
 **Live web interface for spectators (React · TypeScript)** — real-time screens for battles (reps and scores), routine schedules, bracket trees organized by **division**, and per-bracket best-time leaderboards.
 
-**Mobile app for judges (Android)** — coming next; development starts in **September**.
+**Judge app (PWA · React · TypeScript)** — installable on any phone: judges pick a match, control reps and timers live over WebSocket.
 
 <p>
-  <img src="https://img.shields.io/github/last-commit/diogosantosss/Cali-Arena?style=flat-square" />
-  <img src="https://img.shields.io/github/commit-activity/m/diogosantosss/Cali-Arena?style=flat-square" />
-  <img src="https://img.shields.io/github/contributors/diogosantosss/Cali-Arena?style=flat-square" />
+  <img src="https://img.shields.io/github/last-commit/diogosantosss/cali-arena?style=flat-square" />
+  <img src="https://img.shields.io/github/commit-activity/m/diogosantosss/cali-arena?style=flat-square" />
+  <img src="https://img.shields.io/github/contributors/diogosantosss/cali-arena?style=flat-square" />
 </p>
 
 ---
